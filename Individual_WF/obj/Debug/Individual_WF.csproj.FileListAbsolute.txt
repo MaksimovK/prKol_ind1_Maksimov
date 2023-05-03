@@ -1,0 +1,11 @@
+C:\Users\kmaki\RiderProjects\IndividualPract\Individual_WF\bin\Debug\Individual_WF.exe.config
+C:\Users\kmaki\RiderProjects\IndividualPract\Individual_WF\bin\Debug\Individual_WF.exe
+C:\Users\kmaki\RiderProjects\IndividualPract\Individual_WF\bin\Debug\Individual_WF.pdb
+C:\Users\kmaki\RiderProjects\IndividualPract\Individual_WF\obj\Debug\Individual_WF.csproj.AssemblyReference.cache
+C:\Users\kmaki\RiderProjects\IndividualPract\Individual_WF\obj\Debug\Individual_WF.csproj.SuggestedBindingRedirects.cache
+C:\Users\kmaki\RiderProjects\IndividualPract\Individual_WF\obj\Debug\Individual_WF.Properties.Resources.resources
+C:\Users\kmaki\RiderProjects\IndividualPract\Individual_WF\obj\Debug\Individual_WF.csproj.GenerateResource.cache
+C:\Users\kmaki\RiderProjects\IndividualPract\Individual_WF\obj\Debug\Individual_WF.csproj.CoreCompileInputs.cache
+C:\Users\kmaki\RiderProjects\IndividualPract\Individual_WF\obj\Debug\Individual_WF.exe
+C:\Users\kmaki\RiderProjects\IndividualPract\Individual_WF\obj\Debug\Individual_WF.pdb
+C:\Users\kmaki\RiderProjects\IndividualPract\Individual_WF\obj\Debug\Individual_WF.Form1.resources

@@ -1,0 +1,7 @@
+C:\Users\kmaki\RiderProjects\IndividualPract\IndividualPract\bin\Debug\IndividualPract.exe
+C:\Users\kmaki\RiderProjects\IndividualPract\IndividualPract\bin\Debug\IndividualPract.pdb
+C:\Users\kmaki\RiderProjects\IndividualPract\IndividualPract\obj\Debug\IndividualPract.csproj.AssemblyReference.cache
+C:\Users\kmaki\RiderProjects\IndividualPract\IndividualPract\obj\Debug\IndividualPract.csproj.SuggestedBindingRedirects.cache
+C:\Users\kmaki\RiderProjects\IndividualPract\IndividualPract\obj\Debug\IndividualPract.csproj.CoreCompileInputs.cache
+C:\Users\kmaki\RiderProjects\IndividualPract\IndividualPract\obj\Debug\IndividualPract.exe
+C:\Users\kmaki\RiderProjects\IndividualPract\IndividualPract\obj\Debug\IndividualPract.pdb
